@@ -1,0 +1,9 @@
+1. Gpu code:
+	Run shell script SLURM_ConnectedComponent_CUDA1.sh
+	command: sbatch SLURM_ConnectedComponent_CUDA1.sh
+2. Sequential code:
+	Run shell script seq.sh
+	command: sbatch seq.sh
+3. Intuitive Approach:
+	gcc -std=c99 Intuitive_approach.c
+	./a.out Number_of_vertices   Number_of_request

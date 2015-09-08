@@ -1,0 +1,22 @@
+GPU,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,Gpu->,Vertices,requests,time
+time taken :0.000072 vertices: 1000 requests: 100 ,,,,,,,1000,100,0.000072
+time taken :0.000073 vertices: 1000 requests: 500 ,,,,,,,1000,500,0.000073
+time taken :0.000077 vertices: 2000 requests: 100 ,,,,,,,2000,100,0.000077
+time taken :0.000078 vertices: 2000 requests: 500 ,,,,,,,2000,500,0.000078
+time taken :0.000097 vertices: 2000 requests: 1000 ,,,,,,,2000,1000,0.000097
+time taken :0.000085 vertices: 5000 requests: 100 ,,,,,,,5000,100,0.000085
+time taken :0.000084 vertices: 5000 requests: 500 ,,,,,,,5000,500,0.000084
+time taken :0.000089 vertices: 5000 requests: 1000 ,,,,,,,5000,1000,0.000089
+time taken :0.000091 vertices: 7000 requests: 100 ,,,,,,,7000,100,0.000091
+time taken :0.000093 vertices: 7000 requests: 500 ,,,,,,,7000,500,0.000093
+time taken :0.000100 vertices: 7000 requests: 1000 ,,,,,,,7000,1000,0.0001
+time taken :0.000092 vertices: 10000 requests: 100 ,,,,,,,10000,100,0.000092
+time taken :0.000095 vertices: 10000 requests: 500 ,,,,,,,10000,500,0.000095
+time taken :0.000099 vertices: 10000 requests: 1000 ,,,,,,,10000,1000,0.000099
+time taken :0.000130 vertices: 25000 requests: 100 ,,,,,,,25000,100,0.00013
+time taken :0.000124 vertices: 25000 requests: 500 ,,,,,,,25000,500,0.000124
+time taken :0.000139 vertices: 25000 requests: 1000 ,,,,,,,25000,1000,0.000139
